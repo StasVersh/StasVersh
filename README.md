@@ -1,4 +1,6 @@
 ## Hi 👋
+### My jobe
+ - November 2022 - now | SoftKrama | Flutter Developer
 ### You can contact me here
 |[Telegram](https://t.me/stasvershilovich)|[Email](stanislavvershilovich@gmail.com)|
 |--------|-----|
